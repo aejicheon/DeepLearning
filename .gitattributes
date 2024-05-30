@@ -1,0 +1,2 @@
+DeepLearning.file filter=lfs diff=lfs merge=lfs -text
+model_cifar.pt filter=lfs diff=lfs merge=lfs -text
